@@ -1,0 +1,42 @@
+{
+  "auto-control": {
+    "product_location": "",
+    "task": ""
+  },
+  "current_operation": {
+    "data": {
+      "current_task": "Picking product at: 1B",
+      "task_progress": "Done"
+    }
+  },
+  "manual-control": {
+    "direction": "s"
+  },
+  "operate-mode": {
+    "mode": "auto_control"
+  },
+  "robot-info": {
+    "-NJAkV0y0ydNJbp39DsH": {
+      "id": 1,
+      "name": "AWMR-Robot",
+      "status": "Online"
+    }
+  },
+  "task-histories": {
+    "-NKq9aAgths7YpM280as": {
+      "date_time": "03-01-2023, 12:45",
+      "product_location": "2A",
+      "task": "pickup"
+    },
+    "-NKqAES8fEm7tzIECndT": {
+      "date_time": "03-01-2023, 12:48",
+      "product_location": "1B",
+      "task": "drop off"
+    },
+    "-NKqITIYxhm_uagDLceU": {
+      "date_time": "03-01-2023, 13:24",
+      "product_location": "1B",
+      "task": "pickup"
+    }
+  }
+}

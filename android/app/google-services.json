@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63638798206",
+    "firebase_url": "https://amwr-data-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "amwr-data",
+    "storage_bucket": "amwr-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63638798206:android:5d1829f045e82a9b1f7d2f",
+        "android_client_info": {
+          "package_name": "com.example.amwr_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63638798206-gojobf57flh48f73suqt2b6e3iibp76n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUJCJe8ZXlE4qOhIHl-IcEmXFj-zdtBCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63638798206-gojobf57flh48f73suqt2b6e3iibp76n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
